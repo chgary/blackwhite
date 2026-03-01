@@ -1,0 +1,17 @@
+//
+//  blackwhiteApp.swift
+//  blackwhite
+//
+//  Created by 鍾松錦 on 2026/3/1.
+//
+
+import SwiftUI
+
+@main
+struct blackwhiteApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
