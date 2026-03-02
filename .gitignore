@@ -1,0 +1,61 @@
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Xcode - User Specific
+# =========================
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Workspace user data
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# =========================
+# Build Artifacts
+# =========================
+DerivedData/
+build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# =========================
+# Swift Package Manager
+# =========================
+.build/
+.swiftpm/
+
+# =========================
+# CocoaPods (if used)
+# =========================
+Pods/
+
+# =========================
+# Carthage (if used)
+# =========================
+Carthage/Build/
+
+# =========================
+# Fastlane (if used)
+# =========================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# =========================
+# Temporary / Editor
+# =========================
+*.swp
+*.lock
+
+# =========================
+# Keep shared schemes (if you ever need CI)
+# =========================
+!*.xcodeproj/xcshareddata/xcschemes/
